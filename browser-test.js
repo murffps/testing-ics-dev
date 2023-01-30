@@ -1,4 +1,6 @@
 // https://www.browserstack.com/guide/automation-using-selenium-javascript
+//https://www.tabnine.com/code/javascript/functions/selenium-webdriver/Builder/withCapabilities
+
 var webdriver = require('selenium-webdriver');
 
 var browser_name = new webdriver.Builder();
