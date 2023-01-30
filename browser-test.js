@@ -18,3 +18,6 @@ console.log(title);
 });
 
 browser.quit();
+
+
+// mobile https://github.com/appium/appium/tree/1.x/sample-code
